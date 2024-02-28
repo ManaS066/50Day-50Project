@@ -1,0 +1,31 @@
+,0
+0,Andhra Pradesh 
+1,Arunachal Pradesh 
+2,Assam
+3,Bihar
+4,Chhattisgarh
+5,Haryana
+6,Himachal Pradesh
+7,Jammu and Kashmir
+8,Jharkhand
+9,Karnataka
+10,Kerala
+11,Madhya Pradesh
+12,Maharashtra
+13,Manipur
+14,Meghalaya
+15,Mizoram
+16,Nagaland
+17,Punjab
+18,Rajasthan
+19,Sikkim
+20,Tamil Nadu
+21,Telangana
+22,Tripura
+23,Uttar Pradesh
+24,Uttarakhand
+25,West Bengal
+26,Andaman and Nicobar Islands
+27,Chandigarh
+28,Lakshadweep
+29,Puducherry-141.0

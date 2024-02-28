@@ -1,0 +1,20 @@
+ try:
+                with open(resource_path("dist/data.json"), mode="r") as data:
+                    # write data inside json file
+                    # json.dump(new_data,data,indent=4)
+                    # read data from json file
+                    data1 = json.load(data)
+                    # modify the data
+                    data1.update(new_data)
+
+                    with open(resource_path("dist/data.json"), mode="w") as data:
+                        json.dump(data1, data, indent=4)
+
+                        # data.write(f"{website} :\n")
+                        # data.write(f"{email} :")
+                        # data.write(f"{password}\n")
+                        insert = True
+            except:
+                with open(resource_path("dist/data.json"), "w") as data:
+                    json.dump(new_data, data, indent=4)
+                    insert = True
