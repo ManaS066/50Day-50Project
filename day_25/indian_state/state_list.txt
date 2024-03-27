@@ -1,0 +1,35 @@
+state,x,y
+Andhra Pradesh ,-67.0,-124.0
+Arunachal Pradesh ,191.0,92.0
+Assam,170.0,54.0
+Bihar,46.0,44.0
+Chhattisgarh,-17.0,-29.0
+Goa,-136.0,-138.0
+Gujarat,-182.0,-4.0
+Haryana,-109.0,108.0
+Himachal Pradesh,-95.0,158.0
+Jammu and Kashmir,-114.0,211.0
+Jharkhand,36.0,4.0
+Karnataka,-121.0,-153.0
+Kerala,-121.0,-153.0
+Madhya Pradesh,-86.0,-1.0
+Maharashtra,-135.0,-67.0
+Manipur,189.0,22.0
+Meghalaya,138.0,36.0
+Mizoram,172.0,1.0
+Nagaland,199.0,46.0
+Odisha,27.0,-47.0
+Punjab,-117.0,141.0
+Rajasthan,-166.0,60.0
+Sikkim,100.0,79.0
+Tamil Nadu,-77.0,-212.0
+Telangana,-57.0,-96.0
+Tripura,150.0,4.0
+Uttar Pradesh,-30.0,63.0
+Uttarakhand,-57.0,128.0
+West Bengal,76.0,-8.0
+Andaman and Nicobar Islands,171.0,-189.0
+Chandigarh,-123.0,137.0
+Lakshadweep,-167.0,-212.0
+Delhi,-87.0,96.0
+Puducherry-141.0,-228.0
