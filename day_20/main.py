@@ -42,7 +42,9 @@ while game_is_on:
 
         #Modify it to reset score
         #score.game_over()
+
         snake.reset()
+        print("Game over")
         score.reset()
     #detect colision with tail.
      # if the head colid with any segment then game is over

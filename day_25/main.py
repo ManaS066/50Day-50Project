@@ -48,8 +48,8 @@ data= pd.read_csv("weather_data.csv")
 #
 # print(data[data.temp==data.temp.max()])
 
-
-monday=data[data.day =="Monday"]
-monday_temp = monday.temp[0]
-tf=monday_temp*9/5+32
-print(tf)
+#
+# monday=data[data.day =="Monday"]
+# monday_temp = monday.temp[0]
+# tf=monday_temp*9/5+32
+# print(tf)

@@ -20,7 +20,8 @@ class Score(Turtle):
             with open("data.txt", "w") as file:
                 file.write(f"{self.highscore}")
             self.write(f"score :{self.highscore} Highscore: {self.highscore}" , align="center", font=FONT)
-
+    def game_over(self):
+        self.write("game over" )
 
     def increse_score(self):
         self.score+=1
